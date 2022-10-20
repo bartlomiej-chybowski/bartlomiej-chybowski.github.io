@@ -19,6 +19,12 @@
 
     @include breakpoint($x-large) {
       max-width: $x-large;
+      padding-left: 70px;
+    }
+
+    @include breakpoint(large) {
+      max-width: $large;
+      padding-left: 40px;
     }
 
     nav {

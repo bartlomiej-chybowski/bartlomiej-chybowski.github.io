@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Bartłomiej Chybowski"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a PhD candidate in Biomedical Signal Processing, who is the happiest when analysing large brainwave datasets. My research interests lie in the intersection of machine learning and neuroscience. My thesis titled "Computational models of circadian and ultradian effects in seizures rooted in physiological knowledge" uses machine learning techniques and EEG signals to predict seizures and examine if they depend on circadian and ultradian patterns.
+
+Before starting my PhD, I did an internship in a Computational Neuroscience research group supervised by Dr Klimeš at The Czech Academy of Sciences, where I used my industrial experience in data analysis to process the EEG signals. My research project titled “Improvement of multi-feature SVM model for epileptic foci localisation” used machine learning techniques to augment the localisation of epileptogenic zones in pharmacoresistant patients.
+
+I aim to continue to develop new approaches to studying brainwave signals using state-of-the-art data science approaches to help to improve medical treatment, lower risk, reduce hospitalisation time, and improve patients' quality of life.
+
+Background
+==========
+* PhD in Biomedical Signal Processing, University of Edinburgh, 2022 - 2025
+* Internship in Computational Neuroscience, Czech Academy of Sciences, 2021 - 2022
+* MSc in Computer Science, Robert Gordon University, 2017 - 2019
+* BEng in Computer Science, Silesian University of Technology, 2011 - 2015
+
+<!-- Research
+========
+I work on a project titled ”Improvement of multi-feature SVM model for epileptic foci localisation” aimed at fine-tuning localization of epileptic regions base on intracranial, interictal recordings from drug-resistant patients. I am involved in the all aspects of the project which helps me to enhance skills such as academic writing, digital signal processing, teamwork, analysis of raw and pre-processed EEG data. -->
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -47,4 +64,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
