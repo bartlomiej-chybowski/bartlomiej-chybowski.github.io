@@ -11,12 +11,15 @@ redirect_from:
 
 Education
 ======
-* BEng in Computer Science, Silesian University of Technology, 2011 - 2015
-* MSc in Computer Science, Robert Gordon University, 2017 - 2019
 * PhD in Biomedical Signal Processing, University of Edinburgh, 2022 - 2025 (expected)
+* MSc in Computer Science, Robert Gordon University, 2017 - 2019
+* BEng in Computer Science, Silesian University of Technology, 2011 - 2015
 
 Work experience
 ======
+* 2023 - 2023: Research Assistant, University of Edinburgh
+  * My main task was to prepare a processing pipeline to extract fundamental features from the anonymised EEG recordings within a pilot project titled: “Exploiting routinely collected brain activity to develop a solution for the remote detection of infantile spasms in babies” funded by a research seed call from the Bayes Centre. 
+ 
 * 2021 - 2022: Computational Neuroscience Intern, Institute of Scientific Instruments of the Czech Academy of Sciences
   * During my internship, I was working on the improvement of a multi-feature SVM model for epileptic foci localisation.
 
@@ -47,7 +50,7 @@ Skills
 Volunteering
 ============
 * 2021 - 2022: University of Derby/Aize UK Ltd
-  * I supported an early career researcher in a project titled ”Using Artificial Intelligence for the Prognostics and Health Management (PHM) of afety-Critical Embedded Systems”. I am involved in the following parts of the project: data lake usage, data cleaning, modification of the existing neural network setup, and general programming issues.
+  * I supported an early career researcher in a project titled ”Using Artificial Intelligence for the Prognostics and Health Management (PHM) of afety-Critical Embedded Systems”. I was involved in the following parts of the project: data lake usage, data cleaning, modification of the existing neural network setup, and general programming issues.
 
 * 2019: Robert Gordon University
   * I took an active role in developing a project aiming to create a CAD model based on digitised information obtained using image recognition from complex Oil & Gas engineering drawings.
@@ -63,4 +66,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
