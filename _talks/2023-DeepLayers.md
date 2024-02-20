@@ -1,10 +1,10 @@
 ---
-title: "Can a single machine learning classifier pipeline detect seizures in different datasets?"
+title: "Can a single ML pipeline detect seizures in different datasets"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-deep-layers-ml-seizure-detection
 venue: "Institute of Scientific Instruments of the Czech Academy of Sciences"
-date: 2022-09-21
+date: 2023-10-12
 location: "Brno, Czech Republic"
 ---
 
